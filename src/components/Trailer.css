@@ -1,0 +1,15 @@
+.trailer {
+    margin: 1rem auto;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    text-align: center;
+}
+
+
+.video {
+    border-radius: 5px;
+}

@@ -1,0 +1,10 @@
+.MovieCard {
+    display: flex;
+    margin: 0 1% 1em 1%;
+    width: 48%;
+}
+
+.MovieCard-poster {
+    max-width: 80px;
+    margin-right: 1em;
+}
